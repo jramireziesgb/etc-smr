@@ -1,2 +1,2 @@
 # etc-smr
-Ficheros de directorio /etc modificados
+Ficheros del directorio /etc modificados
